@@ -56,6 +56,7 @@ const HomePage = () => {
         <ProductFeatures/>
         <ProductFeatures/>
       </div>
+      Numan baba pro
     </>
   )
 }
